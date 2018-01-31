@@ -1,2 +1,3 @@
-# make-my-day
-Web application that reads images for event date and time with to create Calendar event
+# MakeMyDay
+##### Data Mining Tool using Google Cloud Vision & Calendar API to read and interpret images of event posters to determine date & time
+
